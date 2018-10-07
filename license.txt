@@ -1,0 +1,18 @@
+	Game Licenses:
+
+	--------------------------------------------------------------------------------------------------------------------------------------------------------------
+	File Name			File type	Location																						From				Licence Type																																					
+	--------------------------------------------------------------------------------------------------------------------------------------------------------------
+1)	background.jpg		image		http://all-free-download.com/free-vector/download/drawn-beautiful-landscapes-vector_546985.html	freedesignfile		C.C.A
+
+2)	BG.png				image		http://www.gameart2d.com/free-desert-platformer-tileset.html									gameart2d			C.C.0
+
+3)	audi.png			image		https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio						nLuckY Studio		C.C.O
+
+4)	car_red.png			image		https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio						LuckY Studio		C.C.O
+
+5)	police.png			image		https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio						UnLuckY Studio		C.C.O
+
+6)	viper.png			image		https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio						nLuckY Studio		C.C.O
+
+7)	Quarkstar.mp3		image		http://dig.ccmixter.org/files/Quarkstar/53270													The last mile		C.C.0

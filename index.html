@@ -1,0 +1,62 @@
+<!--SIT708	Project: index.html - Viswanadh Bhaskarla - SID: 216319004	-->
+
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable= no" />
+
+		<title>Race to Win</title>
+
+		<!-- Embedding background music in the web page -->
+		<embed id="music" src="Sounds/Quarkstar.mp3" autostart="true" loop="true" width="65px" height="70px">
+
+		<!-- Importing CSS Styling Sheet -->
+		<link href="style.css" rel="stylesheet" />
+
+		<!-- Importing Script and Library files -->
+		<script type="text/javascript" src="jquery-2.1.3.min.js"></script>
+		<script type="text/javascript" src="introtoapps.min.js"></script>
+		<script type="text/javascript" src="script.js"></script>
+	</head>
+
+	<body>
+		<!-- Created a div element to count the player's score -->
+		<div id="Game_score"> Score: <span id = "score" > 0 </span>  </div>
+
+		<!-- Animated title works with gravity and autoBounce -->
+		<div id="title">Race To Win</div>
+		
+		<!-- Button to reset the game -->		
+		<button id="reset" type="submit" onclick="location.href = 'index.html'">RESET</button>
+		
+		<button id="pause" type="submit" >PAUSE</button>
+
+		<p id="name_sid"> Deakin University 2017_Viswanadh Bhaskarla - (SID) 216319004. </p>
+		
+		<!-- Buttons to move the car to left and right -->		
+		<button class="movethecar" id="moveleft" type="button">LEFT</button>
+		<button class="movethecar" id="moveright" type="button">RIGHT</button>
+
+		<!-- Creating a Game container which holds all car, obstacle, road end and line div elements -->
+		<div id="Game_box">
+			<div class="divider" id="line_1"></div>
+			<div class="divider" id="line_2"></div>
+			<div class="divider" id="line_3"></div>
+
+			<div class="obstacle" id="car_red"></div>
+			<div class="obstacle" id="viper"></div>
+			<div class="obstacle" id="police"></div>
+
+			<div class="audi"></div>
+
+			<div id="Game_restart">
+					<button id="restart">
+						Restart<br>
+						<small class="tiny_text">(press Enter)</small>
+					</button>
+			</div>
+		</div>
+	</body>
+</html>
