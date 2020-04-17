@@ -28,5 +28,7 @@ Running the project:
 
 3. Start playing the game-
 
+Images:
+![Race To Win](https://user-images.githubusercontent.com/6322818/79528005-46df7000-80ac-11ea-8220-0af124ba7a3f.PNG)
 
 
