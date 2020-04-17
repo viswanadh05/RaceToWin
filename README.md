@@ -3,16 +3,15 @@
 INSTRUCTIONS FOR USING JAVASCRIPT GAME APPLICATION
 
 Project Name		:	RACE TO WIN
-Project Team		:	Viswanadh Bhaskarla
+Project Author  :	Viswanadh Bhaskarla
 
 <!---------------------------------------------->
 
 Software Requirements needed to run the application:
 
-Operating system	:	Windows 7, 8, 10
-Minimum RAM			:	2GB
-Minimum Graphics	:	1GB
-Browser				:	Chrome, JAVASCRIPT AND ADOBE FLASH ENABLED
+Operating system	:	Windows 7, 8, 10, Linux, MacOS
+Minimum RAM			:	1GB
+Browser				:	Any with JAVASCRIPT AND ADOBE FLASH ENABLED
 
 <!------------------------------------------------>
 
