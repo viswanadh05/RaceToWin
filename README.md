@@ -27,7 +27,7 @@ User can start the game and will be asked to solve a generic puzzle, after a cor
 
 3. Start playing the game-
 
-### Images
+### Project Images
 
 ![Race To Win](https://user-images.githubusercontent.com/6322818/79528005-46df7000-80ac-11ea-8220-0af124ba7a3f.PNG)
 
