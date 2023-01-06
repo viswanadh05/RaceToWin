@@ -12,7 +12,7 @@ function ResponsiveGame()
 	
 	if(availableWidth < 976 && availableHeight < 1000) 
 	{
-		$("body").css( {"background-size": "1370px 733px" , "background-image": "url('public/images/background.jpg')"} );
+		$("body").css( {"background-size": "1370px 733px" , "background-image": "url('public/Images/background.jpg')"} );
 		$("#Game_score").css( {"font-size": "18px", "margin-top": "20%" , "right": "2%"} );
 		$("#title").css( {"width": "175px", "font-size": "12px" } );
 		$("#moveleft").css( {"width": "60px" , "font-size": "16px" , "bottom": "20%" , "left": "80%"} );
@@ -32,7 +32,7 @@ function ResponsiveGame()
 
 	else if(availableHeight > 1000 && availableWidth < 976)
 	{
-		$("body").css( {"background-image": "url('public/images/BG.png')" , "background-size": "770px 1024px"});
+		$("body").css( {"background-image": "url('public/Images/BG.png')" , "background-size": "770px 1024px"});
 		$("#Game_score").css( {"font-size": "18px", "margin-top": "20%" , "right": "6%"} );
 		$("#title").css( {"width": "175px", "font-size": "18px" } );
 		$("#moveleft").css( {"width": "60px" , "font-size": "16px" , "bottom": "20%" , "left": "80%"} );
@@ -50,7 +50,7 @@ function ResponsiveGame()
 
 	else 
 	{
-		$("body").css( {"background-size": "1370px 733px" , "background-image": "url('public/images/background.jpg')"} );
+		$("body").css( {"background-size": "1370px 733px" , "background-image": "url('public/Images/background.jpg')"} );
 		$("#Game_score").css( {"font-size": "35px", "margin-top": "10%" , "right": "17%"} );
 		$("#title").css( {"width": "350px", "font-size": "45px" } );
 		$("#moveleft").css( {"width": "60px" , "font-size": "16px" , "bottom": "10%" , "left": "70%"} );
