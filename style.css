@@ -2,7 +2,7 @@
 
 body        
 { 
-	background-image: url('images/background.jpg'); 
+	background-image: url('public/Images/background.jpg'); 
 	background-size: 1370px 733px;
 	/* background-repeat: no-repeat; */
 	overflow: hidden; 
@@ -58,21 +58,21 @@ body
 
 #car_red    
 { 
-	background-image: url('images/car_red.png');  
+	background-image: url('public/Images/car_red.png');  
 	top: -200px; 
 	left: 11%; 
 }
 
 #viper     
 { 
-	background-image: url('images/viper.png'); 
+	background-image: url('public/Images/viper.png'); 
 	top: -150px; 
 	left: 45%; 
 }
 
 #police     
 { 
-	background-image: url('images/police.png'); 
+	background-image: url('public/Images/police.png'); 
 	top: -250px; 
 	left: 65%; 
 }
@@ -80,7 +80,7 @@ body
 /* The car which user uses to play the game */
 .audi       
 { 
-	background-image: url('images/audi.png'); 
+	background-image: url('public/Images/audi.png'); 
 	height: 85px; 
 	width: 39px; 
 	position: absolute;  
@@ -92,7 +92,7 @@ body
 /* Dividers to the left and right sides of the road */
 .road_end       
 { 
-	background-image: url('images/divider.png'); 
+	background-image: url('public/Images/divider.png'); 
 	height: 648px; 
 	width: 25px; 
 	position: absolute;
