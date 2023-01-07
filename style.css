@@ -124,7 +124,10 @@ body
 
 #music
 {
-	margin: 2%;
+	border: none;
+	outline: none;
+	background: none;
+	margin: 0px 0px;
 }
 
 /* Game title */
